@@ -1010,16 +1010,16 @@
 
 // Q 19 Filter this array to return just the dogs
 
-var animals = [
-    { name: "Jason", species: "rabbit" },
-    { name: "Jessica", species: "dog" },
-    { name: "Jacky", species: "owl" },
-    { name: "Luke", species: "fish" },
-    { name: "Junior", species: "rat" },
-    { name: "Thomas", species: "cat" },
-  ];
+// var animals = [
+//     { name: "Jason", species: "rabbit" },
+//     { name: "Jessica", species: "dog" },
+//     { name: "Jacky", species: "owl" },
+//     { name: "Luke", species: "fish" },
+//     { name: "Junior", species: "rat" },
+//     { name: "Thomas", species: "cat" },
+//   ];
 
-let find = animals.map((val)=> val.species
-)
+// let find = animals.map((val)=> val.species
+// )
 
-console.log(find);
+// console.log(find);
